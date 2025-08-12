@@ -1,0 +1,5 @@
+# requirements.txt
+# Generated from imports in Final_AppleMusicProject.ipynb
+pandas>=2.0
+seaborn>=0.13
+matplotlib>=3.7
